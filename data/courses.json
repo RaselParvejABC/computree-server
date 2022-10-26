@@ -3,40 +3,62 @@
         "id" : "01",
         "title": "Introduction to C Programming Language",
         "preamble": [
-            "To be a Computer Scientist, you must be able to talk with Computers— talk with Computers in a way Computers understand. They call it 'Programming'.",
+            "To be a Computer Scientist, you must be able to talk with Computers— talk with Computers in a way Computers understand. In Computer Science Parlance, we call it 'Programming'.",
             "In this course, we will guide you through C — from Beginner Zero Level to Intermediate.",
             "At the end of this course, you will feel comfortable to instruct Computers in C Programming Language, and thus begin your journey to be a Computer Scientist."
         ],
-        "banner": ""
+        "banner": "https://computree.vercel.app/public/01.png"
     },
     {
         "id" : "02",
-        "title": "Introduction to C Programming Language",
-        "preamble": "",
-        "banner": ""
+        "title": "Introduction to Data Structures",
+        "preamble": [
+            "Working with Computers involves storing and processing Data.",
+            "Storing data in a structured way facilitates further processing and manipulation.",
+            "In this course, you will learn Abstract Data Structures in Computer Science and implement them in C language."
+        ],
+        "banner": "https://computree.vercel.app/public/02.png"
     },
     {
         "id" : "03",
-        "title": "Introduction to C Programming Language",
-        "preamble": "",
-        "banner": ""
+        "title": "Introduction to Algorithm Analysis",
+        "preamble": [
+            "Even when there were no computers, there were algorithms.",
+            "Now there are computers, and there are more algorithms.",
+            "Study of algorithms is fundamental to CS. Apart from Computers, Algorithm itself is another technology worth investigating on its own.",
+            "In this course, we will walk you through some Classic Algorithms, Analysis of Time and Space Complexity of Algorithms, different Algorithms Paradigms, and Algorithm Modifying and Devising Technique."
+        ],
+        "banner": "https://computree.vercel.app/public/03.png"
     },
     {
         "id" : "04",
-        "title": "Introduction to C Programming Language",
-        "preamble": "",
-        "banner": ""
+        "title": "Theory of Computation",
+        "preamble": [
+            "They say, 'Dream becomes Reality'.",
+            "Reality is to Modern Computers as Dream is to 'Theory of Computation'.",
+            "With no study of Theory of Computation, you cannot be a Theoretical Computer Scientist. There are many practical situations where knowledge of Theory of Computation is vital.",
+            "In this course, we will see the gradual development of Theoretical Foundations of present day Computing Machines."
+        ],
+        "banner": "https://computree.vercel.app/public/04.png"
     },
     {
         "id" : "05",
-        "title": "Introduction to C Programming Language",
-        "preamble": "",
-        "banner": ""
+        "title": "Machine Learning",
+        "preamble": [
+            "It all started with questions like — Can computers be intelligent like us humans?",
+            "Then, a big part of our intelligence is: we, humans, can learn from examples and experiences. Then another question — can we give a machine the ability to learn like us? Here begins the story of /Machine Learning.",
+            "This course will start by giving you an overview of Machine Learning, then will gradually prepare you for practical projects with Machine Learning."
+        ],
+        "banner": "https://computree.vercel.app/public/05.png"
     },
     {
         "id" : "06",
-        "title": "Introduction to C Programming Language",
-        "preamble": "",
-        "banner": ""
+        "title": "Python from Zero to Hero",
+        "preamble": [
+            "In today's Computing World, Python is a big big anaconda!",
+            "It has applications in diverse field including Data Science, Machine Learning, Statistics and various branches of Artificial Intelligence.",
+            "This course will start Python from ground level and take you to advanced expertise in Python."
+        ],
+        "banner": "https://computree.vercel.app/public/06.png"
     }
 ]
