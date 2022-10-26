@@ -1,0 +1,42 @@
+[
+    {
+        "id" : "01",
+        "title": "Introduction to C Programming Language",
+        "preamble": [
+            "To be a Computer Scientist, you must be able to talk with Computers— talk with Computers in a way Computers understand. They call it 'Programming'.",
+            "In this course, we will guide you through C — from Beginner Zero Level to Intermediate.",
+            "At the end of this course, you will feel comfortable to instruct Computers in C Programming Language, and thus begin your journey to be a Computer Scientist."
+        ],
+        "banner": ""
+    },
+    {
+        "id" : "02",
+        "title": "Introduction to C Programming Language",
+        "preamble": "",
+        "banner": ""
+    },
+    {
+        "id" : "03",
+        "title": "Introduction to C Programming Language",
+        "preamble": "",
+        "banner": ""
+    },
+    {
+        "id" : "04",
+        "title": "Introduction to C Programming Language",
+        "preamble": "",
+        "banner": ""
+    },
+    {
+        "id" : "05",
+        "title": "Introduction to C Programming Language",
+        "preamble": "",
+        "banner": ""
+    },
+    {
+        "id" : "06",
+        "title": "Introduction to C Programming Language",
+        "preamble": "",
+        "banner": ""
+    }
+]
