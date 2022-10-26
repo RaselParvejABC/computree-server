@@ -1,0 +1,23 @@
+{
+  "name": "b610-lerning-platform-server-side-raselparvejabc",
+  "version": "1.0.0",
+  "description": "Assignment 10 (Server Side)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-RaselParvejABC.git"
+  },
+  "author": "Muhammad Rasel Parvej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-RaselParvejABC/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-RaselParvejABC#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
