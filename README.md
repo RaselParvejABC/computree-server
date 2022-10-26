@@ -1,4 +1,4 @@
-# [CompuTree](https://computree.vercel.app/)
+# [CompuTree Server](https://computree.vercel.app/)
 ## The Server is Running at https://computree.vercel.app/ 
 
 ## Functions
