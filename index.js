@@ -1,10 +1,11 @@
 const express = require("express");
+var cors = require("cors");
 const courses = require("./data/courses.json");
 
 const app = express();
 const port = 5000;
 
-app.use(express.static("public"));
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("CompuTree Server is Running Happily!");
