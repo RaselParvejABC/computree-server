@@ -1,8 +1,10 @@
-import express from "express";
-import courses from "./data/courses.json" assert { type: "json" };
+const express = require("express");
+const courses = require("./data/courses.json");
 
 const app = express();
 const port = 5000;
+
+app.use(express.static("public"));
 
 app.get("/", (req, res) => {
   res.send("CompuTree Server is Running Happily!");
