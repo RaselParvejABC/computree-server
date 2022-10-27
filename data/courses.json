@@ -46,7 +46,7 @@
         "title": "Machine Learning",
         "preamble": [
             "It all started with questions like — Can computers be intelligent like us humans?",
-            "Then, a big part of our intelligence is: we, humans, can learn from examples and experiences. Then another question — can we give a machine the ability to learn like us? Here begins the story of /Machine Learning.",
+            "Then, a big part of our intelligence is: we, humans, can learn from examples and experiences. Then another question — can we give a machine the ability to learn like us? Here begins the story of Machine Learning.",
             "This course will start by giving you an overview of Machine Learning, then will gradually prepare you for practical projects with Machine Learning."
         ],
         "banner": "https://computree.vercel.app/public/05.png"
